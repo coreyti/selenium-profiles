@@ -1,0 +1,4 @@
+[
+{'uri': 'http://google.com/', 'value': 'firebugged.showFirebug'},
+{'uri': 'http://www.google.com/firefox?client=firefox-a&rls=org.mozilla:en-US:official', 'value': 'firebugged.showFirebug'}
+]
